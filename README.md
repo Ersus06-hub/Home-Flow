@@ -1,4 +1,4 @@
-# 🏠 HomeFlow
+#  HomeFlow
 
 Planificador de liquidez y ahorro familiar construido con Streamlit.
 
