@@ -1,0 +1,33 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Bytecode y caché de Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Streamlit: el archivo de secrets contiene credenciales
+.streamlit/secrets.toml
+
+# Variables de entorno
+.env
+.env.*
+
+# Logs y salidas temporales
+*.log
+install.log
+verify.txt
+
+# Descargas generadas por la app
+homeflow_proyeccion.csv
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
